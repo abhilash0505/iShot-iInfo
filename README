@@ -12,6 +12,7 @@ Development Packages of:
 	glib2.0
 	libplist
 	libusbmuxd (within usbmuxd package, see below)
+	libimobiledevice
 
 Software:
 	usbmuxd (git clone git://git.marcansoft.com/usbmuxd.git)
