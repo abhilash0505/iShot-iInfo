@@ -1,0 +1,23 @@
+About
+=====
+
+An app to take screenshot of any iDevice. Another app to fetch info dump of an iDevice.
+
+Requirements
+============
+
+Development Packages of:
+	libgnutls
+	libgcrypt
+	glib2.0
+	libplist
+	libusbmuxd (within usbmuxd package, see below)
+
+Software:
+	usbmuxd (git clone git://git.marcansoft.com/usbmuxd.git)
+	make
+	autoheader
+	automake
+	autoconf
+	libtool
+	gcc
